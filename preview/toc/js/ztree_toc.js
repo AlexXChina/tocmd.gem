@@ -237,7 +237,7 @@ function factor(opts ,count,current) {
 			'z-index': 2147483647,
 			border: '0px none',
 			left: '0px',
-			bottom: '0px',
+			//bottom: '0px',
 			// height:'100px'
 		},
 		ztreeSetting: {
